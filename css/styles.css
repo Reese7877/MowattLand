@@ -10093,6 +10093,12 @@ img::-moz-selection {
   font-weight: 700;box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
  /*  box-shadow: 5px 10px 8px #888888;*/
 }
+
+.more { 
+     display: flex;
+  align-items: left;
+  justify-content:left;
+ }
 .social { 
 text-align: center; }
 .btn-social {
